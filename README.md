@@ -5,7 +5,7 @@ In this repository I am uploading my solutions for [6Companies30Days](<https://w
 ## Problem Set
 
 <details open>
-<summary  style="font-size: 1.2em"> Microsoft </summary>
+<summary  style="font-size: 1.9em"> Microsoft </summary>
 
 Sr  | [Problems](./Microsoft/README.md)                                                                                      | TryIt                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
