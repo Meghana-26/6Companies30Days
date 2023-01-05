@@ -9,7 +9,7 @@ In this repository I am uploading my solutions for [6Companies30Days](<https://w
 
 Sr  | [Problems](./Microsoft/README.md)                                                                                      | TryIt                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
-1   | [Evaluate Reverse Polish Notationr](./Microsoft/print-anagrams-together.md)                                                     | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                              | 
-
+1   | [Evaluate Reverse Polish Notation](./Microsoft/print-anagrams-together.md)                                                     | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                              | 
+2   | [Combination Sum III](./Microsoft/print-anagrams-together.md)                                                     | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/combination-sum-iii/)                              | 
 
 </details>
